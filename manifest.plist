@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kuaisou.zhuaimiao.test</string>
+				<string>com.jiuqi.gmt.jsj</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>拽喵</string>
+				<string>交水建</string>
 			</dict>
 		</dict>
 	</array>
